@@ -1,0 +1,71 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 232 >>
+stream
+BT /F1 16 Tf 72 740 Td (Zentora Labs - NimbusDesk Sample Report) Tj ET
+BT /F1 11 Tf 72 700 Td (This sample report verifies LlamaParse extraction.) Tj ET
+BT /F1 11 Tf 72 680 Td (It contains three pages and a table on page two.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 500 >>
+stream
+BT /F1 16 Tf 72 740 Td (Regional Support Metrics) Tj ET
+BT /F1 12 Tf 72 700 Td (Region) Tj ET
+BT /F1 12 Tf 220 700 Td (Tickets) Tj ET
+BT /F1 12 Tf 340 700 Td (SLA) Tj ET
+BT /F1 11 Tf 72 675 Td (North) Tj ET
+BT /F1 11 Tf 220 675 Td (1248) Tj ET
+BT /F1 11 Tf 340 675 Td (99.2) Tj ET
+BT /F1 11 Tf 72 655 Td (South) Tj ET
+BT /F1 11 Tf 220 655 Td (986) Tj ET
+BT /F1 11 Tf 340 655 Td (98.7) Tj ET
+BT /F1 11 Tf 72 635 Td (East) Tj ET
+BT /F1 11 Tf 220 635 Td (1435) Tj ET
+BT /F1 11 Tf 340 635 Td (99.5) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 175 >>
+stream
+BT /F1 16 Tf 72 740 Td (Contract Summary) Tj ET
+BT /F1 12 Tf 72 700 Td (Total annual support cost: 482,750 USD) Tj ET
+BT /F1 11 Tf 72 680 Td (Contract code: NDS-2026-Q3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000259 00000 n 
+0000000542 00000 n 
+0000000668 00000 n 
+0000001219 00000 n 
+0000001345 00000 n 
+0000001571 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+1641
+%%EOF

@@ -1,0 +1,29 @@
+ZENTORA LABS - INFORMATION SECURITY POLICY (Version 2.0)
+
+1. PASSWORDS AND ACCESS
+All employee passwords must be at least 14 characters long and must be changed every 180 days.
+Multi-factor authentication (MFA) is mandatory for all internal systems. Hardware security keys (YubiKey) are issued to engineers and administrators.
+Access rights are reviewed every quarter by the Security team, led by the CISO, Tomas Lindqvist.
+
+2. DEVICES
+Company laptops must use full-disk encryption. Personal devices may not be used to access production systems.
+Lost or stolen devices must be reported within 2 hours to security@zentora.example.
+
+3. INCIDENT RESPONSE
+Security incidents are classified into three severity levels:
+- SEV-1 (critical): customer data exposed or production fully down. Response within 15 minutes. Customers are notified within 72 hours.
+- SEV-2 (high): partial outage or suspected breach. Response within 1 hour.
+- SEV-3 (low): minor issue with no customer impact. Response within 1 business day.
+A post-incident report must be published internally within 5 business days after any SEV-1 or SEV-2 incident.
+
+4. DATA RETENTION
+Customer ticket data is retained for 24 months after the contract ends, then permanently deleted.
+Server logs are kept for 90 days. Audit logs for Enterprise customers are kept for 13 months.
+Backups are performed every 6 hours and stored in two regions: Frankfurt and Dublin.
+
+5. COMPLIANCE
+Zentora Labs is certified under ISO 27001 (since 2023) and SOC 2 Type II (since 2024). The company complies with GDPR.
+Annual penetration tests are performed by an external vendor in October.
+
+6. VENDOR MANAGEMENT
+New third-party vendors that process customer data require a security review by the Security team and a signed Data Processing Agreement (DPA) before use.
